@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import re,time,json,datetime
+import time,json,datetime
 from pymongo import MongoClient
 
 
